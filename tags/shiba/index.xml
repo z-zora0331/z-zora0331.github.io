@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiba on 阿柴部落格</title>
+    <link>https://z-zora0331.github.io/tags/shiba/</link>
+    <description>Recent content in Shiba on 阿柴部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-us</language>
+    <lastBuildDate>Wed, 30 Nov 2022 11:27:47 +0800</lastBuildDate><atom:link href="https://z-zora0331.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>https://z-zora0331.github.io/blog/test/</link>
+      <pubDate>Wed, 30 Nov 2022 11:27:47 +0800</pubDate>
+      
+      <guid>https://z-zora0331.github.io/blog/test/</guid>
+      <description>Hello World
+TEST
+標題4 標題5 標題6 我是阿柴TTTT，我喜歡學習
+阿柴 TEST HELLO 阿柴 TEST HELLO HELLO</description>
+    </item>
+    
+  </channel>
+</rss>
